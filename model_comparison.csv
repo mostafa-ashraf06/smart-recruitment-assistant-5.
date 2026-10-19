@@ -1,0 +1,4 @@
+Model,Threshold,Accuracy,Precision,Recall,F1 Score,ROC AUC,Val AUPRC
+Random Forest,0.483,0.793,0.561,0.775,0.651,0.815,0.531
+XGBoost,0.553,0.797,0.57,0.756,0.65,0.817,0.512
+Logistic Regression,0.562,0.777,0.539,0.715,0.615,0.803,0.502
